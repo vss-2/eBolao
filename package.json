@@ -1,0 +1,22 @@
+{
+  "name": "ebolao",
+  "version": "0.0.1",
+  "description": "eBolao é um bot para o Telegram para fazer bolão com seus amigos para e-sports.",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodejs index.js"
+  },
+  "keywords": [
+    "Chatbot",
+    "Telegram",
+    "e-Sports"
+  ],
+  "author": "github.com/pjcsouza, github.com/vss-2",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "-": "0.0.1",
+    "@supabase/supabase-js": "^1.11.9",
+    "dotenv": "^8.2.0",
+    "save": "^2.4.0"
+  }
+}
